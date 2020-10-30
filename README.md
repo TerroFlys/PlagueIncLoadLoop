@@ -4,10 +4,8 @@ Tested on steam.
 
 Settings
 
-resolution: 1920x1080
-
-Extra Popups: off,    
+resolution: 1920x1080  
+Extra Popups: off    
 Language: English.
-
 
 Start in main menu.
