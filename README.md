@@ -3,6 +3,8 @@ Plague Inc 'bot' that loads the latest save, finishes the match and collects 're
 
 
 #Settings
-resolution: 1920x1080
-Extra Popups: off
-Language: English
+resolution: 1920x1080.
+Extra Popups: off.
+Language: English.
+
+Start in main menu.
