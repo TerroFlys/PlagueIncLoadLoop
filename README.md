@@ -4,7 +4,7 @@ Tested on steam.
 
 Settings
 
-Resolution: 1920x1080  
+Resolution: 1920x1080 (windowed)   
 Extra Popups: off    
 Language: English
 
